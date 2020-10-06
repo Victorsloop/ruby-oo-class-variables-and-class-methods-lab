@@ -38,5 +38,6 @@ class Song
         artist_count
     end
 
-
+### similar methods completed with time 
+## tried to keep as clean as i could 
 end 
